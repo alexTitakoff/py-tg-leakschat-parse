@@ -3,4 +3,4 @@
 beautiful soap / python 3
 
 
-![alt text](./pic.png)
+![alt text](./pic.jpg)
